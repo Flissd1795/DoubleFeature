@@ -1,4 +1,4 @@
-FocusFinder
+#FocusFinder
 Full-Stack web application built from scratch in a group project as part of Makers Academy bootcamp in March 2025.
 
 Overview
