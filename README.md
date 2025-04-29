@@ -1,16 +1,18 @@
-#FocusFinder#
-Full-Stack web application built from scratch in a group project as part of Makers Academy bootcamp in March 2025.
+# DoubleFeature
+Full-Stack web application built from scratch in a group project as part of Makers Academy bootcamp in April 2025.
 
-Overview
+# Overview
+
+
 FocusFinder is a web application used to showcase locations around the UK which would be ideal spots to study, for students looking for places to work away from home. The user can search for locations by name or address, bookmark locations, mark them as visited, review them, gain achievements and suggest new locations to be added.
 
-Tech Stack
-C#, Razor, HTML, CSS, PostgreSQL, NUnit, Playwright, Render.
+# Tech Stack
+React, JavaScript, HTML, CSS, Jest, Vitest, Render.
 
-Timeline
-10 days
+# Timeline
+8 days
 
-My Contributions
+# My Contributions
 Searchbar:
 Users can search by by location (city, postcode etc.) as well we keywords (e.g. library).
 Landing page:
@@ -24,6 +26,5 @@ Users can gain achievements based on number of cities visited and locations visi
 Users can view a list of their achievements (initially greyed out and become green when milestone is achieved)
 Testing:
 Unit testing using NUnit
-🎥 Watch the demo
 
-🎥 Watch the demo - reviews
+
