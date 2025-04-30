@@ -3,8 +3,7 @@ Full-Stack web application built from scratch in a group project as part of Make
 
 # Overview
 
-
-FocusFinder is a web application used to showcase locations around the UK which would be ideal spots to study, for students looking for places to work away from home. The user can search for locations by name or address, bookmark locations, mark them as visited, review them, gain achievements and suggest new locations to be added.
+DoubleFeature is a single-player game where the aim is to race against the clock to name as many films as you can that each link together by cast member or director. The player can only use each film once and can only use the same link three times.
 
 # Tech Stack
 React, JavaScript, HTML, CSS, Jest, Vitest, Render.
@@ -13,18 +12,18 @@ React, JavaScript, HTML, CSS, Jest, Vitest, Render.
 8 days
 
 # My Contributions
-Searchbar:
-Users can search by by location (city, postcode etc.) as well we keywords (e.g. library).
-Landing page:
-Locations in grid layout with location name, city and overall rating displaying
-Bookmarking functionality:
-Bookmark button added to locations on landing page and individual location page
-User can add or remove bookmarks
-User can view a list of their bookmarked locations
-Achievements:
-Users can gain achievements based on number of cities visited and locations visited, bookmarked, and reviewed
-Users can view a list of their achievements (initially greyed out and become green when milestone is achieved)
-Testing:
-Unit testing using NUnit
+- HomePage, GamePage and How To/Results Modal CSS
+- Frontend testing using Vitest (achieving 85% coverage)
+- Creation of the following components:
+    - Timer
+    - Play button
+    - Searchbar
+    - Results modal
+    - Home button
+    - Play again button
+
+# [Play DoubleFeature] (double-feature.onrender.com)
+
+
 
 
