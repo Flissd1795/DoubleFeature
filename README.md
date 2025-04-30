@@ -1,4 +1,4 @@
-# DoubleFeature
+# [Play DoubleFeature](https://double-feature.onrender.com/)
 Full-Stack web application built from scratch in a group project as part of Makers Academy bootcamp in April 2025.
 
 # Overview
@@ -22,7 +22,6 @@ React, JavaScript, HTML, CSS, Jest, Vitest, Render.
     - Home button
     - Play again button
 
-# [Play DoubleFeature](https://double-feature.onrender.com/)
 
 
 
