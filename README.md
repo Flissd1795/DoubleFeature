@@ -1,4 +1,4 @@
-# [Play DoubleFeature]((https://double-feature1.netlify.app/))
+# [Play DoubleFeature](https://double-feature1.netlify.app/)
 Full-Stack web application built from scratch in a group project as part of Makers Academy bootcamp in April 2025.
 
 # Overview
