@@ -1,8 +1,10 @@
-# [Play DoubleFeature](https://double-feature1.netlify.app/)
+# [Play DoubleFeature](https://doublefeature-hcid.onrender.com/)
+When playing please allow loading time on the first game.
+
+# What is DoubleFeature?
 Full-Stack web application built from scratch in a group project as part of Makers Academy bootcamp in April 2025.
 
 # Overview
-
 DoubleFeature is a single-player game where the aim is to race against the clock to name as many films as you can that each link together by cast member or director. The player can only use each film once and can only use the same link three times.
 
 # Tech Stack
